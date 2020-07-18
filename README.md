@@ -72,7 +72,7 @@ npm run build --report
 
 # 演示
 
-![Soraka演示](https://gitee.com/beiyoufx/soraka-view/raw/master/demo.gif)
+[Soraka演示](https://github.com/beiyoufx/soraka-view/blob/master/demo.gif)
 
 # 关注我们
 
